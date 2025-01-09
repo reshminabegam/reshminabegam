@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a computer science engineering student<br><br>joined to the GitHub for developing a knowledge<br>And I will show my extra talents and I'll search many new ideas from the GitHub.<br>I hope it will help for my future growth..:⁠-⁠!
-<image align="right" width="300" src="https://github.com/reshminabegam/reshminabegam/assets/140154991/9687b0b2-17df-40dc-b261-0a92c8f79473">
+<image align="right" width="370" src="https://github.com/reshminabegam/reshminabegam/assets/140154991/9687b0b2-17df-40dc-b261-0a92c8f79473">
 
 
 ## 🌐 Socials:
