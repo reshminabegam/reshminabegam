@@ -5,7 +5,7 @@ I'm a computer science engineering student<br><br>joined to the GitHub for devel
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@resh71_offl)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&cacheSeconds=3600)](https://www.linkedin.com/in/reshmina-begam-k-a-436b8a254/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&cacheSeconds=3600)](https://www.linkedin.com/in/reshmina-begam-k-a-436b8a254/)<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/reshminabegam65/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reshminabegam)  
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/_resh71_)  
