@@ -16,6 +16,13 @@ I am Reshmina Begam, an enthusiastic software developer and data analyst current
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-8338EC?logo=figma&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reshminabegam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
