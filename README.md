@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science engineering student<br><br>joined to the GitHub for developing a knowledge<br>And I will show my extra talents and I'll search many new ideas from the GitHub.<br>I hope it will help for my future growth..:⁠-⁠!
+I am Reshmina Begam, an enthusiastic software developer and data analyst currently completing my Bachelor of Computer Science and Engineering. I specialize in Python, MySQL, Power BI, and front-end technologies like HTML, CSS, and JavaScript. Passionate about crafting intuitive user interfaces and uncovering data-driven insights, I thrive on solving complex problems and delivering impactful solutions. Beyond coding, I enjoy exploring UI/UX design through tools like Figma and Canva, blending creativity with technology. As a proactive team player with strong analytical and communication skills, I am eager to contribute effectively in fast-paced environments. When not coding, I enjoy learning new technologies and indulging in collaborative projects that push my boundaries.
 <image align="right" width="390" src="https://github.com/reshminabegam/reshminabegam/assets/140154991/9687b0b2-17df-40dc-b261-0a92c8f79473">
 
 
